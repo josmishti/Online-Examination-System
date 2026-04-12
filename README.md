@@ -1,4 +1,4 @@
-# Offline Online Examination System
+#  Online Examination System
 
 A complete fullstack web application for conducting online examinations with role-based access control.
 
